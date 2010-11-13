@@ -1,5 +1,5 @@
 Modified version of the YUI js/css compressor that walks through a directory to compress js/css files in it.
-Creates a backup of every compressable file found.(backup file name = <orig_file_name>_orig.<extension>)
+Creates a backup of every compressable file found.(backup file name = <orig_file_name>_orig.<orig_extension>)
 
 Usage:
 
